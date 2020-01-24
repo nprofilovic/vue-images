@@ -3,3 +3,8 @@ f08540e1950b9b5
 
 Client secret:
 c44d2fbd31bffaaec85049a7d3f234b5f71fa3fb
+
+https://api.imgur.com/oauth2/authorize?
+client_id=YOUR_CLIENT_ID
+&response_type=token
+&state=APPLICATION_STATE
